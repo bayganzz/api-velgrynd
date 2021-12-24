@@ -9,10 +9,10 @@ Create New App ( App Name For Example : abcd-api)
 <img src="https://i.postimg.cc/Z5T8Btw2/newapp.png" width="300">
 
 # Note
-- Project ini open source
-- Tidak untuk di perjual belikan
+- Project ini open source/free
+- Tidak untuk di perjual belikan! Jika ketauan akan kami ddos
 
 # Thanks To
-- [Zhirr](https://github.com)
+- [Bay](https://github.com/bayganzz)
 - [Bootstrapd](https://github.com)
 - [Arya](https://github.com/arya-was)
