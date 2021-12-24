@@ -2,7 +2,7 @@
 
 # Source Codes - Byte's API
 <p align="center">
-<a href="#"><img title="Bay Free API" src="https://img.shields.io/badge/Bay Api-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="https://bay-web.herokuapp.com"><img title="Bay Free API" src="https://img.shields.io/badge/Press this to view Rest API-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/bayganzz"><img title="Author" src="https://img.shields.io/badge/Author-Bay-orange.svg?style=for-the-badge&logo=github"></a>
